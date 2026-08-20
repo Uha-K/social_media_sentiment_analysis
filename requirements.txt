@@ -1,0 +1,12 @@
+Python
+Pandas
+NumPy
+Regular Expressions
+Scikit-learn
+Matplotlib
+NLP
+CountVectorizer
+TF-IDF
+Multinomial Naive Bayes
+Logistic Regression
+Linear SVM
